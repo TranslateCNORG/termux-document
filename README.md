@@ -4,4 +4,4 @@
 
 |文档|路径|进行程度|负责人|
 |:-:|:-:|:-:|:-:|
-|[Termux 用户文档](doc/tetmux.md)|doc/termux.md|正在进行|@lihai2333|
+|[Termux 用户文档](doc/termux.md)|doc/termux.md|正在进行|@lihai2333|
